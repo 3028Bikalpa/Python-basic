@@ -1,4 +1,5 @@
 a = 5
 b = 10
-c = a+b
-print("The sum of these numbers is: ",c)
+c=15
+d = a+b+c
+print("The sum of these numbers is: ",d)
